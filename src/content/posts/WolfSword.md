@@ -2,13 +2,13 @@
 title: WolfSword
 published: 2025-08-05
 description: ''
-image: ''
-tags: []
-category: ''
+image: './images/WolfSword_004.jpg'
+tags: [3DsMax, Substance3DPainter, Photoshop, Unity]
+category: '3D Modeling'
 draft: false 
 lang: ''
 ---
-# Chest
+# WolfSword
 
 ![1](./images/WolfSword_004.jpg)
 ![2](./images/WolfSword_005.jpg)

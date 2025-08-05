@@ -2,9 +2,9 @@
 title: Chest
 published: 2025-08-05
 description: ''
-image: ''
-tags: []
-category: ''
+image: './images/Chest_007.jpg'
+tags: [3DsMax, Substance3DPainter, Photoshop, Unity]
+category: '3D Modeling'
 draft: false 
 lang: ''
 ---

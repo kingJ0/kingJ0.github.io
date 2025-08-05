@@ -1,10 +1,10 @@
 ---
-title: Simple Guides for Fuwari
-published: 2024-04-01
-description: "How to use this blog template."
+title: J0 Portfolio
+published: 2025-08-05
+description: "J0 Portfolio"
 image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
-category: Guides
+tags: [3DsMax, Substance3DPainter, Photoshop, Unity, UnrealEngine]
+category: 3D Artist
 draft: false
 ---
 
