@@ -11,7 +11,7 @@ lang: ''
 # Chest
 
 ![1](./images/Guitar_001.jpg)
-![2](./images/Guitar_002)
+![2](./images/Guitar_002.jpg)
 
 - Modeling : 3Ds Max
 - Texture : Substance 3D Painter
