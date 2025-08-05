@@ -28,7 +28,7 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 export default defineConfig({
 	site: 'https://kingJ0.github.io',
 	base: 'my-repo',
-	base: "/",
+	base: "",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
