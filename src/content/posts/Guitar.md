@@ -2,7 +2,7 @@
 title: Guitar
 published: 2025-08-05
 description: ''
-image: ''
+image: './images/Guitar_001.jpg'
 tags: []
 category: ''
 draft: false 
