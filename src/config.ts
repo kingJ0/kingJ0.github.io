@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "J0 Fortfolio",
-	subtitle: "3D Model, VFX",
+	title: "J0 Portfolio",
+	subtitle: "3D Modeler, VFX Artist",
 	lang: "en", // Language code, e.g. 'en', 'zh-CN', 'ja', etc.
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
