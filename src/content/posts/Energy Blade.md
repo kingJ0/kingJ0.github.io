@@ -1,5 +1,5 @@
 ---
-title: Enegy Blade
+title: Energy Blade
 published: 2025-08-07
 description: ''
 image: './images/EnegyBlade_002.jpg'
@@ -8,7 +8,7 @@ category: '3D Modeling'
 draft: false 
 lang: ''
 ---
-# Enegy Blade
+# Energy Blade
 
 ![](./images/EnegyBlade_002.jpg)
 ![](./images/EnegyBlade_003.jpg)
