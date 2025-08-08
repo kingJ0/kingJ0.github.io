@@ -8,7 +8,7 @@ category: '3D Modeling'
 draft: false 
 lang: ''
 ---
-# Enegy Blade
+# Revolver
 
 ![](./images/revolver_001.jpg)
 ![](./images/revolver_002.jpg)
