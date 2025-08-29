@@ -10,7 +10,7 @@ lang: ''
 ---
 # SpacePortal
 
-<video src="./video/SpacePortal_005.mp4" autoplay loop muted></video>
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/SpacePortal_005.mp4"></video>
 ![SpacePortal (1)](./images/SpacePortal(1).jpg)
 ![SpacePortal (2)](./images/SpacePortal(2).jpg)
 ![SpacePortal (3)](./images/SpacePortal(3).jpg)
