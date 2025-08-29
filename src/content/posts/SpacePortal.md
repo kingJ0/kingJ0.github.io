@@ -2,7 +2,7 @@
 title: SpacePortal
 published: 2025-08-25
 description: ''
-image: './video/SpacePortal_005.mp4'
+image: './images/SpacePortal(2).png'
 tags: [3DsMax, Substance3DPainter, Unity, Marmoset]
 category: '3D Modeling'
 draft: false 
