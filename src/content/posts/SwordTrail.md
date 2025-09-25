@@ -14,7 +14,7 @@ lang: ''
 
 <video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/SwordShieldVFX_002.mp4"></video>
 
-<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/SwordShieldVFX_002.mp4"></video>
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/SwordShieldVFX_003.mp4"></video>
 
 
 - VFX : Unity Shader, Unity VFX Graph, Unity Particle System
