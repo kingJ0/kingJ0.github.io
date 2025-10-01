@@ -20,6 +20,6 @@ Fantsy Style Holy Magic
 
 <video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/HolyMagic2.mp4"></video>
 
-- Imapct
+- Impact
 
 <video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/HolyMagic3.mp4"></video>
