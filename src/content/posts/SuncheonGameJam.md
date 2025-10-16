@@ -5,7 +5,7 @@ description: ''
 image: './images/순천게임잼4.png'
 tags: [3DsMax, Photoshop, Unity]
 category: '3D Modeling'
-draft: false 
+draft: true 
 lang: ''
 ---
 # Characters

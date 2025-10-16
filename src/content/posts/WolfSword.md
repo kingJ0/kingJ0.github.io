@@ -5,7 +5,7 @@ description: ''
 image: './images/WolfSword_004.jpg'
 tags: [3DsMax, Substance3DPainter, Photoshop, Unity]
 category: '3D Modeling'
-draft: false 
+draft: true 
 lang: ''
 ---
 # WolfSword

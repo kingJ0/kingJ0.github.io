@@ -5,7 +5,7 @@ description: ''
 image: './images/Knife_002.png'
 tags: [3DsMax, Substance3DPainter, Photoshop, Unity]
 category: '3D Modeling'
-draft: false 
+draft: true 
 lang: ''
 ---
 # Knife

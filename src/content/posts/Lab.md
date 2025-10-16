@@ -5,7 +5,7 @@ description: ''
 image: './images/Lab_EX_001.png'
 tags: [3DsMax, Substance3DPainter, Photoshop, Unity]
 category: '3D Modeling'
-draft: false 
+draft: true 
 lang: ''
 ---
 # Lab

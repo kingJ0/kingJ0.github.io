@@ -5,7 +5,7 @@ description: ''
 image: './images/ScreamJam1.png'
 tags: [3DsMax, Photoshop, Substance3DPainter, Unity]
 category: '3D Modeling'
-draft: false 
+draft: true 
 lang: ''
 ---
 # Buildings
