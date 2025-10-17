@@ -10,14 +10,9 @@ lang: ''
 ---
 # Fantasy VFX - SwordTrail, BlockEffect
 
-<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/SwordShieldVFX_001.mp4"></video>
+Soldier 1 attacks with a 3-hit combo. Soldier 2 blocks all three incoming strikes.
 
-<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/SwordShieldVFX_002.mp4"></video>
 
-<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/SwordShieldVFX_003.mp4"></video>
-
-- mannequin
-<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/Slash1.mp4"></video>
 
 - sword Trail
 <video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/Slash2.mp4"></video>
@@ -30,5 +25,20 @@ lang: ''
 
 - VFX only
 <video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/Slash5.mp4"></video>
+
+- mannequin
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/Slash1.mp4"></video>
+
+- Add Character
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/SwordShieldVFX_001.mp4"></video>
+
+- Another View
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/SwordShieldVFX_002.mp4"></video>
+
+
+- Far View
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/SwordShieldVFX_003.mp4"></video>
+
+
 - VFX : Unity Shader, Unity VFX Graph, Unity Particle System
 

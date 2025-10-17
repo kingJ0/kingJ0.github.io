@@ -12,9 +12,7 @@ lang: ''
 
 Fantsy Style Holy Magic
 
-- Full
-
-<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/HolyMagic.mp4"></video>
+Casting (5s) -> AoE (5s)
 
 - Casting
 
@@ -23,3 +21,11 @@ Fantsy Style Holy Magic
 - Impact
 
 <video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/HolyMagic3.mp4"></video>
+
+- Version 01
+
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/HolyMagic.mp4"></video>
+
+- Version 02 Adjust "casting circle" size
+
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/HolyMagic_001.mp4"></video>
