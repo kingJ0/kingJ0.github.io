@@ -22,6 +22,6 @@ Made in Unity Shader Graph.
 
 - Water
 ![](./images/Water.png)
-<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/Environment4.mp4.mp4"></video>
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/Environment4.mp4"></video>
 
 
