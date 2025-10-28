@@ -4,7 +4,7 @@ published: 2025-10-27
 description: ''
 image: './images/Rain_0000.jpg'
 tags: [Unity, VFX, Shader]
-category: 'Environment, VFX'
+category: 'Environment'
 draft: false 
 lang: ''
 ---

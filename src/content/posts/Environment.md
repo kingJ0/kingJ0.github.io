@@ -13,11 +13,11 @@ Simple environment with grass, water, and flag.
 Made in Unity Shader Graph.
 
 - Flag
-  ![](./images/Flag.png)
+![](./images/Flag.png)
 <video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/Environment1.mp4"></video>
 
 - Grass
-- ![](./images/grass.png)
+![](./images/grass.png)
 <video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/Environment2.mp4"></video>
 
 - Water
