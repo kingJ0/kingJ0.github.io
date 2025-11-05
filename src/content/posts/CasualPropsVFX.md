@@ -11,6 +11,8 @@ lang: ''
 # Casual pirate ship Props
 Unity6 URP
 ![](./images/CandleCoin.png)
+![](./images/Coin.png)
+![](./images/candle.png)
 casual style low poly coin, candle.
 
 # VFX
