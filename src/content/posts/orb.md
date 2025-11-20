@@ -2,7 +2,7 @@
 title: Orb
 published: 2025-11-20
 description: ''
-image: './images/Orb1_001.jpg'
+image: './images/Orb3_010.jpg'
 tags: [Unity, VFX, Shader]
 category: 'VFX'
 draft: false 
@@ -44,5 +44,14 @@ I want this orb have certain sphere shape and more property inside orb.
 
 ## V.03
 I want more chaotic effect
+- Outside Lightning
+- adjust wrapper position
+- Add postprocess
+- add pebble particles
 
-(WIP)
+![Orb3_010.jpg](images/Orb3_010.jpg)
+![Orb3_011.jpg](images/Orb3_011.jpg)
+![Orb3_012.jpg](images/Orb3_012.jpg)
+
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/orb3_007.mp4"></video>
+<video controls loop = "" muted ="" autoplay = ""><source src ="https://github.com/kingJ0/kingJ0.github.io/raw/refs/heads/main/src/content/posts/video/orb3_008.mp4"></video>
